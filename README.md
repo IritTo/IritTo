@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I am passionate about securing digital environments, detecting threats, and learning advanced cybersecurity techniques.
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/irit-t-cybersecurity/)
-- ✍️ Medium: [Read my articles](https://medium.com/@iritt) Guides Insights &Walkthrough.
+- ✍️ Medium: [Read my articles](https://medium.com/@iritt) Guides Insights &Walkthroughs.
 
 ---
 
