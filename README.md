@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I am passionate about securing digital environment
   - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
   - ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
   - ![Splunk](https://img.shields.io/badge/-Splunk-blue?logo=splunk&logoColor=white)
+  - ![TheHive](https://img.shields.io/badge/-TheHive-orange?logo=beehive&logoColor=white)
   - ![Snort](https://img.shields.io/badge/-Snort-red?logo=snort&logoColor=white)
   - ![AlienVault OSSIM](https://img.shields.io/badge/-AlienVault_OSSIM-green?logo=alienvault&logoColor=white)
   - ![Wireshark](https://img.shields.io/badge/-Wireshark-blue?logo=wireshark&logoColor=white)
@@ -57,7 +58,8 @@ Welcome to my GitHub profile! I am passionate about securing digital environment
   - ![Maltego](https://img.shields.io/badge/-Maltego-blue?logo=maltego&logoColor=white)
   - ![SpiderFoot](https://img.shields.io/badge/-SpiderFoot-orange?logo=spider&logoColor=white)
   - ![TCPdump](https://img.shields.io/badge/-TCPdump-grey?logo=linux&logoColor=white)
-
+  - ![ModSecurity](https://img.shields.io/badge/-ModSecurity-red?logo=security&logoColor=white)
+    
     
 ---
 
